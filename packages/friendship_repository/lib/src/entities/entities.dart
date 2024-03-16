@@ -1,0 +1,1 @@
+export 'friendship_entity.dart';
